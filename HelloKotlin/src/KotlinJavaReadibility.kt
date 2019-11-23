@@ -39,3 +39,6 @@ class Person (name: String){
 }
 
 
+class Human (gender: String) {
+}
+
